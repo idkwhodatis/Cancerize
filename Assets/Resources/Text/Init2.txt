@@ -1,0 +1,1 @@
+Objectives# There are three ways to win. 1. Cancer Spreads: Invade all organs. 2. Cancer Grows: Cell Number reaches 5000k. 3. Energy Depletion: Energy reaches 10000k. If the cancer cell number goes less than 0, you lose, so choose your moves wisely. Use mouse button to select organs, use mouse scrolls to zoom in or out, move cursor to the edge to move the screen. 
